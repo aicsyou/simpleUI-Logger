@@ -12,9 +12,9 @@ Voltage Measurement:
   
 Current Measurement:
 
-  - Range: 500mA, 5mA resolution, +/-(1% + 5mA) accuracy
+  - Range: 500mA, 1mA resolution, +/-(1% + 1mA) accuracy
   
-  - Range: 5mA, 5uA resolution, +/-(1% + 5uA) accuracy
+  - Range: 5mA, 10uA resolution, +/-(1% + 10uA) accuracy
   
 Operation Temperature:
 
