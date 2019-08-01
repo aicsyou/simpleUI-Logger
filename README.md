@@ -1,2 +1,2 @@
-# sf-USB-UI-Logger
-A tiny voltage/current logger with USB
+# simpleUI-Logger
+A tiny, simple voltage/current logger with USB for DIYers
