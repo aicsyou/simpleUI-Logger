@@ -22,6 +22,3 @@ Operation Temperature:
   
 The designed accuray can only be achieved with limited operation temperature and calibration. Drifting over time is possible.
 
-Project Website:
-
-www.sleeping-fish.cn
